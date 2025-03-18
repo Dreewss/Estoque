@@ -13,4 +13,4 @@ Este é um sistema simples de Controle de Estoque desenvolvido com PHP, HTML e C
 - CSS
 - MYSQL
 
-![Controle de Estoque](img/estoque.png)
+![Controle de Estoque](https://github.com/Dreewss/Estoque/blob/main/estoque.png)
